@@ -1,0 +1,59 @@
+{
+  "name": "neveralone",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@react-google-maps/api": "^2.1.1",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^4.6.0",
+    "emailjs-com": "^2.6.4",
+    "firebase": "^8.3.0",
+    "leaflet": "^1.7.1",
+    "leaflet-defaulticon-compatibility": "^0.1.1",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.5.1",
+    "react-bootstrap-switch": "^15.5.3",
+    "react-datepicker": "^3.6.0",
+    "react-dom": "^17.0.2",
+    "react-dropzone": "^11.3.2",
+    "react-firebase-hooks": "^3.0.2",
+    "react-geocode": "^0.2.3",
+    "react-icons": "^4.2.0",
+    "react-leaflet": "^3.1.0",
+    "react-recaptcha": "^2.3.10",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "uuid": "^8.3.2",
+    "web-vitals": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
