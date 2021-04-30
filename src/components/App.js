@@ -22,7 +22,7 @@ import DeleteMessage from './DeleteMessage'
 import DeleteComment from './DeleteComment'
 import { AuthProvider } from '../contexts/AuthContext'
 import ScrollToTop from '../contexts/ScrollToTop'
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { HashRouter  as Router, Switch, Route } from 'react-router-dom'
 
 function App() {
   return (
